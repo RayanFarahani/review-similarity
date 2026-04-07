@@ -1,0 +1,28 @@
+### Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+### Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+### Jupyter / notebooks
+.ipynb_checkpoints/
+
+### OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+### Model / runtime caches (safe to re-download)
+.cache/
+**/.cache/
+**/cache/
+
